@@ -10,6 +10,7 @@ Bem-vindo ao repositório do Site Fast Food! Este é um projeto de um site de fa
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
+- [Criador](#criador)
 - [Licença](#licença)
 
 ## Visão Geral 👁️
@@ -48,6 +49,10 @@ Contribuições para o Site Fast Food são bem-vindas! Se você deseja contribui
 4. Teste o site para garantir que suas alterações não causem problemas.
 
 5. Envie um pull request descrevendo as alterações que você fez. 🚀📢
+
+## Criador 👤
+
+Este projeto foi criado por [Kalebzaki4](https://github.com/Kalebzaki4). Você pode entrar em contato comigo pelo seguinte email: [kalebzsantosk@gmail.com](mailto:kalebzsantosk@gmail.com).
 
 ## Licença 📜
 
